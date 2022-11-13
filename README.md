@@ -1,4 +1,4 @@
-** Kaizo New Super Mario Bros U v2.1 **
+**Kaizo New Super Mario Bros U v2.1**
 
 original project: [kaizo smbu v2.0](https://kaizo-smbu-download.jimdosite.com/) 
 trailer: [click video](https://www.youtube.com/watch?v=kBri1IDKxmg) 
@@ -15,15 +15,17 @@ trailer: [click video](https://www.youtube.com/watch?v=kBri1IDKxmg)
 - add support spanish language
 - optimized to work on hardware wii u
 - resources were cleaned and reduced the size
+- fixed intro scene
+- add version in main screen
 
 ***
 
-** play on the wii u **
+**play on the wii u**
 
 - require [homebrew](https://wiiu.hacks.guide/#/)
 - require [loadiine_gx2](https://github.com/dimok789/loadiine_gx2) 
 
-** structure folder for loadiine **
+**structure folder for loadiine**
 
 - rootsd
 	- wiiu
@@ -36,19 +38,19 @@ trailer: [click video](https://www.youtube.com/watch?v=kBri1IDKxmg)
 
 ***
 
-** the structure of the extracted filesystem of a retail New Super Mario Bros. U game dump **
+**the structure of the extracted filesystem of a retail New Super Mario Bros. U game dump**
  
- - ** content/Common/course_res_pack **
+ - **content/Common/course_res_pack**
  	- This folder contains all of the levels that the game uses, including all special ones such as the Title Screen and the Credits.
- - ** content/Common/actor **
+ - **content/Common/actor**
  	- This folder contains all of the actor files that the game uses.
- - ** content/Common/course_select **
+ - **content/Common/course_select**
  	- This folder contains all the files used for World Maps.
- - ** content/Common/demo **
+ - **content/Common/demo**
  	- cutscene
  ***
  
- ** strings by location **
+ **strings by location**
 ~~~
 - course_name.msbt
   - Strings in this file:  82
