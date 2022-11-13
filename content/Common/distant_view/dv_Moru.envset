@@ -1,0 +1,9 @@
+0//< Version
+"e_End_Mori"//< enemy
+"b_End_Mori"//< boss
+"mo_End_Mori"//< mapobj
+"i_End_Mori"//< item
+"p_End_Mori"//< player
+"m_End_Mori"//< DV
+"ef_End_Mori"//< effect
+"lm_End_Mori"//< lightmap

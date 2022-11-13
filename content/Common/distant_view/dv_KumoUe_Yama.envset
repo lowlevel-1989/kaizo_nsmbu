@@ -1,0 +1,9 @@
+0//< Version
+"e_Kumo"//< enemy
+"b_Kumo"//< boss
+"mo_Kumo"//< mapobj
+"i_Kumo"//< item
+"p_Kumo"//< player
+"m_KumoUe_Yama"//< DV
+"ef_default"//< effect
+"lm_KumoUe_Yama"//< lightmap

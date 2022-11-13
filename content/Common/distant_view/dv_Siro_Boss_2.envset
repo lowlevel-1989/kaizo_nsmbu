@@ -1,0 +1,9 @@
+0//< Version
+"e_BossRoom"//< enemy
+"b_BossRoom"//< boss
+"mo_BossRoom"//< mapobj
+"i_BossRoom"//< item
+"p_BossRoom"//< player
+"m_Siro_Boss_2"//< DV
+"ef_Sabaku"//< effect
+"lm_Siro_Boss_2"//< lightmap

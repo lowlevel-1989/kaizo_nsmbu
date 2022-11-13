@@ -1,0 +1,9 @@
+0//< Version
+"e_Kumo_Yoru"//< enemy
+"b_Kumo_Yoru"//< boss
+"mo_Kumo_Yoru"//< mapobj
+"i_Kumo_Yoru"//< item
+"p_Kumo_Yoru"//< player
+"m_Siro_Boss_Ludw"//< DV
+"ef_Siro_Kougen"//< effect
+"lm_Siro_Boss_Ludw"//< lightmap

@@ -1,0 +1,9 @@
+0//< Version
+"e_default"//< enemy
+"b_default"//< boss
+"mo_default"//< mapobj
+"i_default"//< item
+"p_default"//< player
+"m_End_Kaigan"//< DV
+"ef_default"//< effect
+"lm_End_Kaigan"//< lightmap

@@ -1,0 +1,9 @@
+0//< Version
+"e_BossRoom_Wendy"//< enemy
+"b_BossRoom_Wendy"//< boss
+"mo_BossRoom_Wendy"//< mapobj
+"i_BossRoom_Wendy"//< item
+"p_BossRoom_Wendy"//< player
+"m_Siro_Boss_Wendy"//< DV
+"ef_default"//< effect
+"lm_Siro_Boss_Wendy"//< lightmap

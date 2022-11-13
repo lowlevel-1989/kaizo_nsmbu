@@ -1,0 +1,9 @@
+0//< Version
+"e_Obake"//< enemy
+"b_Obake"//< boss
+"mo_Obake"//< mapobj
+"i_Obake"//< item
+"p_Obake"//< player
+"m_Obake_tate_2"//< DV
+"ef_Obake_hune"//< effect
+"lm_Obake_tate_2"//< lightmap

@@ -1,0 +1,9 @@
+0//< Version
+"e_Toride_W5"//< enemy
+"b_Toride_W5"//< boss
+"mo_Toride_W5"//< mapobj
+"i_Toride_W5"//< item
+"p_Toride_W5"//< player
+"m_Toride"//< DV
+"ef_Toride"//< effect
+"lm_Toride_2"//< lightmap

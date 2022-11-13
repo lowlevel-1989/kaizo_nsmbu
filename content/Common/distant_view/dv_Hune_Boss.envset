@@ -1,0 +1,9 @@
+0//< Version
+"e_BossRoom_5SJr"//< enemy
+"b_BossRoom_5SJr"//< boss
+"mo_BossRoom_5SJr"//< mapobj
+"i_BossRoom_5SJr"//< item
+"p_BossRoom_5SJr"//< player
+"m_Hune_Boss"//< DV
+"ef_Hune"//< effect
+"lm_Hune_Boss"//< lightmap

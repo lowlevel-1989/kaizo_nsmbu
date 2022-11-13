@@ -1,0 +1,9 @@
+0//< Version
+"e_Kurayami_H"//< enemy
+"b_Kurayami_H"//< boss
+"mo_Kurayami_H"//< mapobj
+"i_Kurayami_H"//< item
+"p_Kurayami_H"//< player
+"m_Toride_Iwaba"//< DV
+"ef_Toride_Iwaba"//< effect
+"lm_Toride_Iwaba"//< lightmap

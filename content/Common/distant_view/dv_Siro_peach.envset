@@ -1,0 +1,9 @@
+0//< Version
+"e_Ending"//< enemy
+"b_default"//< boss
+"mo_default"//< mapobj
+"i_default"//< item
+"p_Ending"//< player
+"m_Siro_peach"//< DV
+"ef_default"//< effect
+"lm_Siro_peach"//< lightmap

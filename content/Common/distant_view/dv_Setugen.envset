@@ -1,0 +1,9 @@
+0//< Version
+"e_Setugen"//< enemy
+"b_Setugen"//< boss
+"mo_Setugen"//< mapobj
+"i_Setugen"//< item
+"p_Setugen"//< player
+"m_Setugen"//< DV
+"ef_Setugen"//< effect
+"lm_Setugen"//< lightmap

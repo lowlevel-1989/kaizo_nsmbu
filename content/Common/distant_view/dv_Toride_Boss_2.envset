@@ -1,0 +1,9 @@
+0//< Version
+"e_Kurayami_EM"//< enemy
+"b_Kurayami_EM"//< boss
+"mo_Kurayami_EM"//< mapobj
+"i_Kurayami_EM"//< item
+"p_Kurayami_EM"//< player
+"m_Toride_Setugen"//< DV
+"ef_default"//< effect
+"lm_Toride_Setugen"//< lightmap

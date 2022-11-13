@@ -1,0 +1,9 @@
+0//< Version
+"e_Sabaku"//< enemy
+"b_Sabaku"//< boss
+"mo_Sabaku"//< mapobj
+"i_Sabaku"//< item
+"p_Sabaku"//< player
+"m_End_Sabaku"//< DV
+"ef_Sabaku"//< effect
+"lm_End_Sabaku"//< lightmap

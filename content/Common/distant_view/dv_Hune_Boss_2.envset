@@ -1,0 +1,9 @@
+0//< Version
+"e_Kumo_Arashi"//< enemy
+"b_Kumo_Arashi"//< boss
+"mo_Kumo_Arashi"//< mapobj
+"i_Kumo_Arashi"//< item
+"p_Kumo_Arashi"//< player
+"m_Hune_Boss_2"//< DV
+"ef_default"//< effect
+"lm_Hune_Boss_2"//< lightmap

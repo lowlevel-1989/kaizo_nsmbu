@@ -1,0 +1,9 @@
+0//< Version
+"e_Iwa"//< enemy
+"b_Iwa"//< boss
+"mo_Iwa"//< mapobj
+"i_Iwa"//< item
+"p_Iwa"//< player
+"m_Iwaba"//< DV
+"ef_default"//< effect
+"lm_Iwaba"//< lightmap

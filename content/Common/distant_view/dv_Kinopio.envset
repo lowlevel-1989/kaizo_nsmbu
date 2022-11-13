@@ -1,0 +1,9 @@
+0//< Version
+"e_Kinoko"//< enemy
+"b_Kinoko"//< boss
+"mo_Kinoko"//< mapobj
+"i_Kinoko"//< item
+"p_Kinoko"//< player
+"m_Kinopio"//< DV
+"ef_default"//< effect
+"lm_Kinopio"//< lightmap
